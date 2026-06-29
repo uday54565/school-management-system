@@ -1,0 +1,48 @@
+.attendance-container{
+    padding:30px;
+}
+
+.attendance-container h1{
+    margin-bottom:20px;
+}
+
+.attendance-filters{
+    display:flex;
+    gap:15px;
+    margin-bottom:20px;
+}
+
+.attendance-filters select,
+.attendance-filters input{
+    padding:10px;
+    border:1px solid #ccc;
+    border-radius:6px;
+}
+
+table{
+    width:100%;
+    border-collapse:collapse;
+    background:white;
+}
+
+th{
+    background:#17e875;
+    color:white;
+    padding:12px;
+}
+
+td{
+    padding:12px;
+    text-align:center;
+    border:1px solid #ddd;
+}
+
+.save-attendance{
+    margin-top:20px;
+    padding:12px 25px;
+    border:none;
+    border-radius:6px;
+    background:#16a34a;
+    color:white;
+    cursor:pointer;
+}

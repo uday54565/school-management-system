@@ -1,0 +1,46 @@
+.marks-container{
+    padding:30px;
+}
+
+.marks-container h1{
+    margin-bottom:20px;
+}
+
+.marks-form{
+    display:flex;
+    gap:10px;
+    margin-bottom:20px;
+}
+
+.marks-form input{
+    padding:10px;
+    border:1px solid #ccc;
+    border-radius:6px;
+}
+
+.marks-form button{
+    padding:10px 20px;
+    background:#2563eb;
+    color:white;
+    border:none;
+    border-radius:6px;
+    cursor:pointer;
+}
+
+table{
+    width:100%;
+    border-collapse:collapse;
+    background:white;
+}
+
+th{
+    background:#2563eb;
+    color:white;
+    padding:12px;
+}
+
+td{
+    border:1px solid #ddd;
+    padding:12px;
+    text-align:center;
+}
